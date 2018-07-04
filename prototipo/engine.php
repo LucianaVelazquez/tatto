@@ -137,7 +137,7 @@
 		</head>
 		<body>
 			<div class="container">
-				<div class="title">Bienvenido a Prototyper Web</div>
+				<div class="title">prototipo pagina web</div>
 				<div class="actions">
 					<!-- <a href="<?php /*getNameOfThisFile()*/ ?> /export" class="btn-link pull-right">Exportar</a> -->
 					<a href="" class="btn-link pull-right">Recargar</a>
